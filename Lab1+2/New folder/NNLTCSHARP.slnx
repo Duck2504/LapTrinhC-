@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Buoi01Prj/Buoi01Prj.csproj" />
+  <Project Path="Buoi02proj/Buoi02proj.csproj" />
+  <Project Path="MyLib.Tests/MyLib.Tests.csproj" />
+  <Project Path="MyLib/MyLib.csproj" />
+  <Project Path="ThuVienBuoi02/ThuVienBuoi02.csproj" />
+</Solution>

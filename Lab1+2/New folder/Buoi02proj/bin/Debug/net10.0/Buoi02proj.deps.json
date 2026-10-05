@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Buoi02proj/1.0.0": {
+        "dependencies": {
+          "MyLib": "1.0.0",
+          "ThuVienBuoi02": "1.0.0"
+        },
+        "runtime": {
+          "Buoi02proj.dll": {}
+        }
+      },
+      "MyLib/1.0.0": {
+        "runtime": {
+          "MyLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ThuVienBuoi02/1.0.0": {
+        "runtime": {
+          "ThuVienBuoi02.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buoi02proj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThuVienBuoi02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

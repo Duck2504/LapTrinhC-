@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Bai5.1/Solution.csproj" />
+  <Project Path="Bai5.2/Bai5.2.csproj" />
+  <Project Path="MyLibrary/MyLibrary.csproj" />
+</Solution>

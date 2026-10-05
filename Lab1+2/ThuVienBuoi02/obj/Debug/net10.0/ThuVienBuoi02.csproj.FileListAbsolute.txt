@@ -1,0 +1,11 @@
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\bin\Debug\net10.0\ThuVienBuoi02.deps.json
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\bin\Debug\net10.0\ThuVienBuoi02.dll
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\bin\Debug\net10.0\ThuVienBuoi02.pdb
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\obj\Debug\net10.0\ThuVienBuoi02.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\obj\Debug\net10.0\ThuVienBuoi02.AssemblyInfoInputs.cache
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\obj\Debug\net10.0\ThuVienBuoi02.AssemblyInfo.cs
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\obj\Debug\net10.0\ThuVienBuoi02.csproj.CoreCompileInputs.cache
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\obj\Debug\net10.0\ThuVienBuoi02.dll
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\obj\Debug\net10.0\refint\ThuVienBuoi02.dll
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\obj\Debug\net10.0\ThuVienBuoi02.pdb
+E:\CLASS\C#\NNLTCSharpC\Lab01_DuGiaDuc_3124411072\ThuVienBuoi02\obj\Debug\net10.0\ref\ThuVienBuoi02.dll
