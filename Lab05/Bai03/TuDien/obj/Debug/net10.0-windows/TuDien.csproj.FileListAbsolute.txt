@@ -1,0 +1,15 @@
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\bin\Debug\net10.0-windows\TuDien.exe
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\bin\Debug\net10.0-windows\TuDien.deps.json
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\bin\Debug\net10.0-windows\TuDien.runtimeconfig.json
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\bin\Debug\net10.0-windows\TuDien.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\bin\Debug\net10.0-windows\TuDien.pdb
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\obj\Debug\net10.0-windows\TuDien.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\obj\Debug\net10.0-windows\TuDien.AssemblyInfoInputs.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\obj\Debug\net10.0-windows\TuDien.AssemblyInfo.cs
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\obj\Debug\net10.0-windows\TuDien.csproj.CoreCompileInputs.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\obj\Debug\net10.0-windows\TuDien.sourcelink.json
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\obj\Debug\net10.0-windows\TuDien.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\obj\Debug\net10.0-windows\refint\TuDien.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\obj\Debug\net10.0-windows\TuDien.pdb
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\obj\Debug\net10.0-windows\TuDien.genruntimeconfig.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai03\TuDien\obj\Debug\net10.0-windows\ref\TuDien.dll

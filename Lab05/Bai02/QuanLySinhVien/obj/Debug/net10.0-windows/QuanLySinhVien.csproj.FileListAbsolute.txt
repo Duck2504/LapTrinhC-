@@ -1,0 +1,15 @@
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.AssemblyInfoInputs.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.AssemblyInfo.cs
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.csproj.CoreCompileInputs.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.sourcelink.json
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\bin\Debug\net10.0-windows\QuanLySinhVien.exe
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\bin\Debug\net10.0-windows\QuanLySinhVien.deps.json
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\bin\Debug\net10.0-windows\QuanLySinhVien.runtimeconfig.json
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\bin\Debug\net10.0-windows\QuanLySinhVien.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\bin\Debug\net10.0-windows\QuanLySinhVien.pdb
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\obj\Debug\net10.0-windows\refint\QuanLySinhVien.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.pdb
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.genruntimeconfig.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai02\QuanLySinhVien\obj\Debug\net10.0-windows\ref\QuanLySinhVien.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\Bai5.2\\Bai5.2.csproj": {}
+    "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\Bai5.2\\Bai5.2.csproj": {}
   },
   "projects": {
-    "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\Bai5.2\\Bai5.2.csproj": {
+    "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\Bai5.2\\Bai5.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\Bai5.2\\Bai5.2.csproj",
+        "projectUniqueName": "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\Bai5.2\\Bai5.2.csproj",
         "projectName": "Bai5.2",
-        "projectPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\Bai5.2\\Bai5.2.csproj",
+        "projectPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\Bai5.2\\Bai5.2.csproj",
         "packagesPath": "C:\\Users\\giadu\\.nuget\\packages\\",
-        "outputPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\Bai5.2\\obj\\",
+        "outputPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\Bai5.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giadu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\MyLibrary.csproj": {
-                "projectPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\MyLibrary.csproj"
+              "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\MyLibrary.csproj": {
+                "projectPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\MyLibrary.csproj"
               }
             }
           }
@@ -343,14 +343,14 @@
         }
       }
     },
-    "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\MyLibrary.csproj": {
+    "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\MyLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\MyLibrary.csproj",
+        "projectUniqueName": "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\MyLibrary.csproj",
         "projectName": "MyLibrary",
-        "projectPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\MyLibrary.csproj",
+        "projectPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\MyLibrary.csproj",
         "packagesPath": "C:\\Users\\giadu\\.nuget\\packages\\",
-        "outputPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\obj\\",
+        "outputPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giadu\\AppData\\Roaming\\NuGet\\NuGet.Config"

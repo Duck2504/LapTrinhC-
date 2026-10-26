@@ -1,0 +1,12 @@
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\bin\Debug\net10.0\UocSoLibrary.deps.json
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\bin\Debug\net10.0\UocSoLibrary.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\bin\Debug\net10.0\UocSoLibrary.pdb
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\obj\Debug\net10.0\UocSoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\obj\Debug\net10.0\UocSoLibrary.AssemblyInfoInputs.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\obj\Debug\net10.0\UocSoLibrary.AssemblyInfo.cs
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\obj\Debug\net10.0\UocSoLibrary.csproj.CoreCompileInputs.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\obj\Debug\net10.0\UocSoLibrary.sourcelink.json
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\obj\Debug\net10.0\UocSoLibrary.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\obj\Debug\net10.0\refint\UocSoLibrary.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\obj\Debug\net10.0\UocSoLibrary.pdb
+E:\CLASS\C#\LapTrinhC-\Lab05\UocSoLibrary\obj\Debug\net10.0\ref\UocSoLibrary.dll

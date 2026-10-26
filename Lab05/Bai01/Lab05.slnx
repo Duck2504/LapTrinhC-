@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UocSoLibrary/UocSoLibrary.csproj" />
+  <Project Path="UocSoUI/UocSoUI.csproj" />
+</Solution>

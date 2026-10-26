@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\MyLibrary.csproj": {}
+    "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\MyLibrary.csproj": {}
   },
   "projects": {
-    "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\MyLibrary.csproj": {
+    "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\MyLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\MyLibrary.csproj",
+        "projectUniqueName": "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\MyLibrary.csproj",
         "projectName": "MyLibrary",
-        "projectPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\MyLibrary.csproj",
+        "projectPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\MyLibrary.csproj",
         "packagesPath": "C:\\Users\\giadu\\.nuget\\packages\\",
-        "outputPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab03\\MyLibrary\\obj\\",
+        "outputPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab03\\MyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giadu\\AppData\\Roaming\\NuGet\\NuGet.Config"

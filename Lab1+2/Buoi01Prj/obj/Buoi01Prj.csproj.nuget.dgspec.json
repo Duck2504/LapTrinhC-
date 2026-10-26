@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\Buoi01Prj\\Buoi01Prj.csproj": {}
+    "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\Buoi01Prj\\Buoi01Prj.csproj": {}
   },
   "projects": {
-    "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\Buoi01Prj\\Buoi01Prj.csproj": {
+    "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\Buoi01Prj\\Buoi01Prj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\Buoi01Prj\\Buoi01Prj.csproj",
+        "projectUniqueName": "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\Buoi01Prj\\Buoi01Prj.csproj",
         "projectName": "Buoi01Prj",
-        "projectPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\Buoi01Prj\\Buoi01Prj.csproj",
+        "projectPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\Buoi01Prj\\Buoi01Prj.csproj",
         "packagesPath": "C:\\Users\\giadu\\.nuget\\packages\\",
-        "outputPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\Buoi01Prj\\obj\\",
+        "outputPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\Buoi01Prj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giadu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\MyLib\\MyLib.csproj": {
-                "projectPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\MyLib\\MyLib.csproj"
+              "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\MyLib\\MyLib.csproj": {
+                "projectPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\MyLib\\MyLib.csproj"
               }
             }
           }
@@ -343,14 +343,14 @@
         }
       }
     },
-    "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\MyLib\\MyLib.csproj": {
+    "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\MyLib\\MyLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\MyLib\\MyLib.csproj",
+        "projectUniqueName": "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\MyLib\\MyLib.csproj",
         "projectName": "MyLib",
-        "projectPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\MyLib\\MyLib.csproj",
+        "projectPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\MyLib\\MyLib.csproj",
         "packagesPath": "C:\\Users\\giadu\\.nuget\\packages\\",
-        "outputPath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\MyLib\\obj\\",
+        "outputPath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\MyLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\giadu\\AppData\\Roaming\\NuGet\\NuGet.Config"

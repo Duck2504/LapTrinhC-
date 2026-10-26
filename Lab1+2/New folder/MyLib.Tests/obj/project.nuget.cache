@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "isUeqJwvAFU=",
+  "dgSpecHash": "yiYSRnERB0Y=",
   "success": true,
-  "projectFilePath": "E:\\CLASS\\C#\\NNLTCSharpC\\Lab01_DuGiaDuc_3124411072\\MyLib.Tests\\MyLib.Tests.csproj",
+  "projectFilePath": "E:\\CLASS\\C#\\LapTrinhC-\\Lab1+2\\New folder\\MyLib.Tests\\MyLib.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giadu\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\giadu\\.nuget\\packages\\microsoft.codecoverage\\18.0.1\\microsoft.codecoverage.18.0.1.nupkg.sha512",

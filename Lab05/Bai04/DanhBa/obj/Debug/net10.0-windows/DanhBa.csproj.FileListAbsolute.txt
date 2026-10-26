@@ -1,0 +1,15 @@
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\obj\Debug\net10.0-windows\DanhBa.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\obj\Debug\net10.0-windows\DanhBa.AssemblyInfoInputs.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\obj\Debug\net10.0-windows\DanhBa.AssemblyInfo.cs
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\obj\Debug\net10.0-windows\DanhBa.csproj.CoreCompileInputs.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\obj\Debug\net10.0-windows\DanhBa.sourcelink.json
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\bin\Debug\net10.0-windows\DanhBa.exe
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\bin\Debug\net10.0-windows\DanhBa.deps.json
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\bin\Debug\net10.0-windows\DanhBa.runtimeconfig.json
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\bin\Debug\net10.0-windows\DanhBa.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\bin\Debug\net10.0-windows\DanhBa.pdb
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\obj\Debug\net10.0-windows\DanhBa.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\obj\Debug\net10.0-windows\refint\DanhBa.dll
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\obj\Debug\net10.0-windows\DanhBa.pdb
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\obj\Debug\net10.0-windows\DanhBa.genruntimeconfig.cache
+E:\CLASS\C#\LapTrinhC-\Lab05\Bai04\DanhBa\obj\Debug\net10.0-windows\ref\DanhBa.dll
